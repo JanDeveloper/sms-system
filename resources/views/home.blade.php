@@ -11,6 +11,7 @@
                     {{ session('response') }}
                 </div>
             @endif
+            
             </div>
                 <div class="card-header">Dashboard</div>
 
